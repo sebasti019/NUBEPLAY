@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NubeplayApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(NubeplayApplication.class, args);
 	}
+
 
 }
