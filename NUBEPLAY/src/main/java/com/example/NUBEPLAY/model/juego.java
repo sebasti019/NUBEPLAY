@@ -9,11 +9,13 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 
-public class Usuario {
-//usuario log
-    private String nombre;
-    private String correo;
-    private String rol;
-    private int id;
 
+public class juego {
+    //datos de los juegos
+    private String TituloJuego;
+    private int IdJuego;
+    private String autor;
+    private int RatingContenido; 
+
+    
 }
